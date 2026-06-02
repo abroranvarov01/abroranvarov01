@@ -62,6 +62,15 @@
 
 ---
 
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://t.me/abroranvarov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:anvarovabror88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abroranvarov01&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
